@@ -2,12 +2,12 @@
 // Guardá las imágenes en una carpeta llamada "media".
 
 const photos = [
-  { src: "img/_MG_4694.JPG", caption: "La ceremonia" },
-  { src: "img/_MG_5057.JPG", caption: "Un sí para siempre" },
-  { src: "img/_MG_5472.JPG", caption: "Brindis y abrazos" },
-  { src: "img/_MG_5761.png", caption: "La celebración" },
-  { src: "img/_MG_5539.JPG", caption: "Pura felicidad" },
-  { src: "img/_MG_5198.JPG", caption: "Una noche mágica" }
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/img/_MG_4694.JPG?raw=true", caption: "La ceremonia" },
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/img/_MG_5057.JPG?raw=true", caption: "Un sí para siempre" },
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/_MG_5472.JPG?raw=true", caption: "Brindis y abrazos" },
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/_MG_5761.png?raw=true", caption: "La celebración" },
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/_MG_5539.JPG?raw=true", caption: "Pura felicidad" },
+  { src: "https://github.com/montenegrojesu/boda-facuycami/blob/main/img/_MG_5198.JPG?raw=true", caption: "Una noche mágica" }
 ];
 
 const gallery = document.getElementById("gallery");
